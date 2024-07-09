@@ -1,4 +1,4 @@
-
+![logo](https://github.com/lavnesh694/lavnesh694/blob/main/LAVNESH%20KUMAR.png)
 <h1 align="center">Hi 👋, I'm Lavnesh kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
